@@ -18,7 +18,7 @@ def grab(url):
         os.system(f'wget {url} -O temp.txt')
         response = ''.join(open('temp.txt').readlines())
         if '.m3u8' not in response:
-            print('ttps://raw.githubusercontent.com/freedomusertech/1st/main/assets/info.m3u8')
+            print('https://raw.githubusercontent.com/freedomusertech/1st/main/assets/info.m3u8')
             return
     end = response.find('.m3u8') + 5
     tuner = 100
