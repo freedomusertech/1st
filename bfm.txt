@@ -1,0 +1,5 @@
+﻿~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+1 | 1 | | 
+https://www.bfmtv.com/en-direct
