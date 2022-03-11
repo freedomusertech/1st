@@ -1,0 +1,4 @@
+## FORMAT: <channel name> - <Country>
+
+franceinfo - france
+https://www.youtube.com/c/franceinfo/live
