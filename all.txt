@@ -1,5 +1,4 @@
-~~ DO NOT EDIT THE FIRST 2 LINES
-~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+## FORMAT: <channel name> - <Country>
 
-1 | 1 | | 
+franceinfo -
 https://www.youtube.com/c/franceinfo/live
