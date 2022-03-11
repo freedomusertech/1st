@@ -1,6 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
-#EXTINF:-1 group-title="", franceinfo
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647053634/ei/4rYrYsHkKZaPhgbumY2wBg/ip/20.228.137.38/id/Z-Nwo-ypKtM.2/source/yt_live_broadcast/requiressl/yes/tx/24129503/txs/24129500%2C24129501%2C24129502%2C24129503%2C24129504%2C24129505/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAI9Dtsw6qMmb3SCGAtp9pgo4ZSpVEtytNqWRtTq22vTRAiBNYhh95GXsuJdIe7rlRVf7zZyfxLFczUSekqSrPb6ymw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647053762/ei/YrcrYp3hDtK08wT7s7kw/ip/13.92.140.226/id/Z-Nwo-ypKtM.2/source/yt_live_broadcast/requiressl/yes/tx/24027708/txs/24027707%2C24027708%2C24027709%2C24027710%2C24067856/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgAhhlYbRXJ-_qab91VxYW13G3ZPABHUlOZeruWynQ78QCIQCjQMrgmMWfQUr_YxgwBTdzVEf5QZbopslxKYlmOv7Kng%3D%3D/file/index.m3u8
