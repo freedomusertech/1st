@@ -1,8 +1,3 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
-#EXTINF:-1 group-title="<Country>", ## FORMAT: <channel name>
-
-#EXTINF:-1 group-title="France", franceinfo
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647053068/ei/rLQrYr6cKYml8wSq3Lr4Cg/ip/20.228.196.218/id/Z-Nwo-ypKtM.2/source/yt_live_broadcast/requiressl/yes/tx/24044261/txs/24044258%2C24044259%2C24044260%2C24044261/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/23886209/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgAKby_3lBmUhH8xtJ6fao17aewY775rgGAL8UwetfNhcCIQCzpLfRQnRNQ2S6qGGZ8wZDWgjolp5t565fZ30AMx0FJQ%3D%3D/file/index.m3u8
