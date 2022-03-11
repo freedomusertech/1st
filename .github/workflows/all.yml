@@ -1,4 +1,4 @@
-name: LinkGrabber
+name: all
 
 on:
   schedule:
