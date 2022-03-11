@@ -18,11 +18,14 @@ def grab(url):
         else:
             tuner += 5
     print(f"{link[start : end]}")
-
+print('#EXTM3U')
+print('#EXT-X-VERSION:3')
+print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000')
+s = requests.Session()
 with open('../all.txt', encoding='utf-8') as f:
     for line in f:
         line = line.strip()
-        if not line or line.startswith('##'):
+        if not line or line.startswith('~~'):
             continue
         if not line.startswith('https:'):
             line = line.split('-')
