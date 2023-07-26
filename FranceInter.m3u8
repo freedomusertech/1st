@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/freedomusertech/1st/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690358570/ei/yn7AZODGC8ub_9EPs62tmAc/ip/20.39.63.92/id/JOSEWkydSHE.30/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2SqxaaWix_KNx9U4Q6Txh5kyqv-L1Dp5qFkPic-g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363392/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgUQgevTLbZH0-BrL-mTsDbLH13biCaj_osTIOGmYJZHwCIQDIQ8ult0FRCJ9XFwJvcr0xhNOFDgraPj7o82JFkvSGJg%3D%3D/file/index.m3u8
